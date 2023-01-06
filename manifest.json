@@ -1,11 +1,11 @@
 {
-    "name": "bansook_xyz",
-    "short_name": "bansook_xyz",
+    "name": "Bansook Nam",
+    "short_name": "Bansook Nam",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0093f4",
+    "theme_color": "#0093f4",
+    "description": "Your go-to resumé application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
