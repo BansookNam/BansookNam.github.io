@@ -5,5 +5,10 @@
     "titleSkills": "기술",
     "skillsIntro": "실제 프로덕트에서 직접 사용했던 기술들만 나열했습니다.",
     "fold": "접기",
-    "unfold": "펼치기"
+    "unfold": "펼치기",
+    "developer": "모바일 개발자",
+    "name":"남반석",
+    "namePostFix":"입니다",
+    "hello": "안녕하세요.\n",
+    "project": "프로젝트"
 }

@@ -5,5 +5,11 @@
     "titleSkills": "Skills",
     "skillsIntro": "Only the skills that were directly used in the actual product were listed.",
     "fold": "Fold",
-    "unfold": "Unfold"
+    "unfold": "Unfold",
+    "developer": "Mobile App Developer",
+    "name":"Bansook Nam",
+    "namePostFix":"",
+    "hello": "Hello I'm\n",
+    "project": "Project"
+
 }
