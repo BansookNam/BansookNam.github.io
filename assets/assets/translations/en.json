@@ -2,5 +2,8 @@
     "introduce": "We have been developing mobile applications since the days of Android Gingerbread in September 2013, and we have launched 6 apps and received 10 million downloads. I was in charge of many services.\n Since June 2019, I started developing the Flutter framework, and I am doing mobile reading at Lawfully, a startup immigration platform. I have a lot of interest in UI/UX, and I am always interested in the latest trends",
     "titleContact": "Contact",
     "titleIntroduce": "Introduce",
-    "titleSkills": "Skills"
+    "titleSkills": "Skills",
+    "skillsIntro": "Only the skills that were directly used in the actual product were listed.",
+    "fold": "Fold",
+    "unfold": "Unfold"
 }
