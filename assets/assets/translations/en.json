@@ -13,6 +13,13 @@
     "project": "Project",
     "patent": "Patent",
     "opensource": "Open Source",
-    "present": "Now"
+    "present": "Now",
+    "see story": "See story",
+    "SVC description": "SVC 라이브러리는 몇년전에 유행하던 안드로이드 MVP 패턴의 문제점과 불편한 점을 개선한 라이브러리입니다.",
+    "Nav description": "Nav 라이브러리는 몇년전에 유행하던 안드로이드 MVP 패턴의 문제점과 불편한 점을 개선한 라이브러리입니다.",
+    "Live Background description": "Live Background 라이브러리는 몇년전에 유행하던 안드로이드 MVP 패턴의 문제점과 불편한 점을 개선한 라이브러리입니다.",
+    "patent_1_mini_player desc": "오디오 클립 어플리케이션 하단에 미니 플레이어의 공간 활용을 위해 제안한 기능입니다. 작은 모바일 화면을 효율적으로 쓸 수 있도록 제안하였고, 적절한 애니메이션 효과를 사용하여 유저들이 불편을 느끼지 않도록 하였습니다.",
+    "patent_2_audio_clip desc": "오디오 클립 서비스 및 어플리케이션의 전반적인 구조와 플레이어, 컨텐츠 뷰어에 대한 특허 실용입니다.",
+    "patent_3_soundpost desc": "네이버 포스트 서비스에서 \"사운드 포스트\" 라는 기능을 제안하고 설계하여 기능 자체를 함께 개발한 개발자들과 함께 특허 출원하였습니다."
 
 }
