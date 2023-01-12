@@ -1,5 +1,5 @@
 {
-    "introduce": "I've been developing mobile applications since the days of Android Gingerbread in September 2013, and we have launched 6 apps and received 10 million downloads. I was in charge of many services.\nSince June 2019, I started developing the Flutter framework, and I am doing mobile reading at Lawfully, a startup immigration platform. I have a lot of interest in UI/UX, and I am always interested in the latest trends",
+    "introduce": "I’ve been developing mobile applications since the days of Android Gingerbread in September 2013. I have launched 6 apps and have 10 million downloads. I was in charge of many services.\nStarting from June 2019, I started developing the Flutter framework, and I am doing mobile leading at Lawfully, a startup immigration platform. I have a lot of interest in UI/UX, and I always try to stay ahead by looking into the latest technology trends and new open sources.",
     "titleContact": "Contact",
     "titleIntroduce": "Introduce",
     "titleSkills": "Skills",
@@ -15,11 +15,11 @@
     "opensource": "Open Source",
     "present": "Now",
     "see story": "See story",
-    "SVC description": "SVC 라이브러리는 몇년전에 유행하던 안드로이드 MVP 패턴의 문제점과 불편한 점을 개선한 라이브러리입니다.",
-    "Nav description": "Nav 라이브러리는 몇년전에 유행하던 안드로이드 MVP 패턴의 문제점과 불편한 점을 개선한 라이브러리입니다.",
-    "Live Background description": "Live Background 라이브러리는 몇년전에 유행하던 안드로이드 MVP 패턴의 문제점과 불편한 점을 개선한 라이브러리입니다.",
-    "patent_1_mini_player desc": "오디오 클립 어플리케이션 하단에 미니 플레이어의 공간 활용을 위해 제안한 기능입니다. 작은 모바일 화면을 효율적으로 쓸 수 있도록 제안하였고, 적절한 애니메이션 효과를 사용하여 유저들이 불편을 느끼지 않도록 하였습니다.",
-    "patent_2_audio_clip desc": "오디오 클립 서비스 및 어플리케이션의 전반적인 구조와 플레이어, 컨텐츠 뷰어에 대한 특허 실용입니다.",
-    "patent_3_soundpost desc": "네이버 포스트 서비스에서 \"사운드 포스트\" 라는 기능을 제안하고 설계하여 기능 자체를 함께 개발한 개발자들과 함께 특허 출원하였습니다.",
+    "SVC description": "The SVC library is a library that improves the problems and inconveniences of the Android MVP pattern that was popular a few years ago.",
+    "Nav description": "The Nav library is a library that wraps the Navigator used in Flutter to help you code conveniently with shorter lines and typing. In addition, it contains the basic structure of Dialog, so if you inherit and use it, you can add animation more easily than the general Dialog usage method.",
+    "Live Background description": "The Live Background library was developed when we were planning an event to wish our users for the end of the year, and thought it would be nice to put a nice particle bokeh effect in the background. After implementing it, it came out much prettier than I thought and released it as an open source. It is effective when used for pleasant annual promotions such as Christmas and Happy New Year.",
+    "patent_1_mini_player desc": "This is a function proposed to utilize the space of the mini player at the bottom of the audio clip application. It was proposed to efficiently use the small mobile screen, and appropriate animation effects were used so that users did not experience any inconvenience.",
+    "patent_2_audio_clip desc": "Practical patents for the overall structure of \"Audio Clip\" services and applications, as well as players and content viewers.",
+    "patent_3_soundpost desc": "When I was in charge of the Naver Post service, I proposed and designed a function called \"Sound Post\" and applied for a patent with the developers who developed the function itself.",
     "media": "Speach & Media"
 }
