@@ -41764,7 +41764,7 @@ o=A.fq(30)
 n=a.G(n)
 n.toString
 n=A.Gg(n.f.z,2)
-s=A.ep(A.dz($.ar9?"\ucd5c\uc2e0\uc21c\uc73c\ub85c \uc815\ub82c\ud558\uae30":"\uc2dc\uac04\uc21c\uc73c\ub85c \uc815\ub82c\ud558\uae30"))
+s=A.ep(A.dz($.ar9?"sort recent":"sort old"))
 s.d=10
 s.ch=A.c8().$0()
 r=t.p
