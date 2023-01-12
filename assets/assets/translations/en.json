@@ -21,6 +21,14 @@
     "patent_1_mini_player desc": "This is a function proposed to utilize the space of the mini player at the bottom of the audio clip application. It was proposed to efficiently use the small mobile screen, and appropriate animation effects were used so that users did not experience any inconvenience.",
     "patent_2_audio_clip desc": "Practical patents for the overall structure of \"Audio Clip\" services and applications, as well as players and content viewers.",
     "patent_3_soundpost desc": "When I was in charge of the Naver Post service, I proposed and designed a function called \"Sound Post\" and applied for a patent with the developers who developed the function itself.",
+    "project_0 cafe desc": "Naver Cafe is the largest community platform in Korea. You can talk to each other and share useful information, such as various hobbies, expertise, and sports.",
+    "project_1 post desc": "Naver Post has a similar texture to a blog service, but is a little more specialized, and is a platform that continuously writes about a single topic. Posting types include \"regular\" like a blog, and \"card type\" that is flipped sideways. The editor continues to evolve and is currently being serviced as Smart Editor 3.0 (One).",
+    "project_2 blog desc": "Naver Blog is the largest blogging platform in Korea. It serves as a platform for sharing users' daily life information and professional contents.",
+    "project_3 disco desc": "Disco is a service that allows users to share their interests and exchange information. It was developed for Korea and Japan, and a pilot service was introduced in Korea, but it ended in six months as the atmosphere of the early box office cooled.",
+    "project_4 audioclip desc": "Audioclip is a content service that allows you to easily enjoy audio content in your area of interest, from lectures in various fields, fairy tales, language studies, exhibition docents, to audio books, news, and sports events.",
+    "project_5 selective desc": "Selective (currently Naver Shopping Live) was initially planned and launched as a platform for general users to share each other's fashion photos.",
     "project_6 lawfully desc": "The Lawfully application service is a service that guides immigrants on what to do at each step of the staff when they apply through USCIS (Federal Immigration Service) and predicts the date when approval will be given based on user data. In addition, we provide 1:1 video consultation with lawyers, former USCIS interviews, mock practice/coaching services, and in-depth data analysis to paid premium users.",
+  
+    
     "media": "Speach & Media"
 }
