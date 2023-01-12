@@ -7,8 +7,8 @@
     "fold": "Fold",
     "unfold": "Unfold",
     "developer": "Mobile App Developer",
-    "name":"Bansook Nam",
-    "namePostFix":"",
+    "name": "Bansook Nam",
+    "namePostFix": "",
     "hello": "Hello I'm\n",
     "project": "Project",
     "patent": "UI/UX Patent",
@@ -28,7 +28,12 @@
     "project_4 audioclip desc": "Audioclip is a content service that allows you to easily enjoy audio content in your area of interest, from lectures in various fields, fairy tales, language studies, exhibition docents, to audio books, news, and sports events.",
     "project_5 selective desc": "Selective (currently Naver Shopping Live) was initially planned and launched as a platform for general users to share each other's fashion photos.",
     "project_6 lawfully desc": "The Lawfully application service is a service that guides immigrants on what to do at each step of the staff when they apply through USCIS (Federal Immigration Service) and predicts the date when approval will be given based on user data. In addition, we provide 1:1 video consultation with lawyers, former USCIS interviews, mock practice/coaching services, and in-depth data analysis to paid premium users.",
-  
-    
+    "project_0 cafe story": "",
+    "project_1 post story": "",
+    "project_2 blog story": "",
+    "project_3 disco story": "Dis",
+    "project_4 audioclip story": "",
+    "project_5 selective story": "",
+    "project_6 lawfully story": "",
     "media": "Speach & Media"
 }
