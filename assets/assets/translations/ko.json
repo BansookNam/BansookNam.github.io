@@ -59,7 +59,7 @@
     "project_6 lawfully story2 title": "우리의 Flutter",
     "project_6 lawfully story2": " iOS를 이끌어갈 사람도 없고, Android쪽도 이어서 하자니 처음부터 구조를 잡는게 빠를 것 같았습니다. 당시 제가 관심이 있던 크로스플랫폼으로 Flutter가 점점 떠오르고 있었는데, 1.0.0이 출시된지 이제 6개월 정도가 되었습니다. 리서치를 해볼수록 UI성능과 OS플랫폼에 UI 디펜던시를 떼어낸 Flutter ’아! 이거다’ 싶었습니다.\n\n 당시에 iOS앱 자체도 계속 기능 변경과 업데이트를 해야했기 때문에 Swift 공부를 병행해가며 약 3개월동안 10번 정도의 iOS앱 릴리즈를 진행했고, Android앱 출시를 위해서 Flutter로 열심히 iOS앱을 따라 만들었습니다.\n\n 드디어 2019년 10월 21일 Android Flutter 버전앱이 출시되었습니다. 뒤따라 11월 초 Native iOS앱의 로그인 정보를 migration한 Flutter 앱을 AppStore에 업데이트 하였습니다. iOS유저들은 디자인만 조금 바뀌었다고 생각했습니다. 내부가 통째로 바뀐줄은 전혀 몰랐죠.\n\n 지난 4년을 돌아봤을때 Flutter를 선택한 것은 신의 한수였습니다. 기획과 디자인, 텍스트 전달도 Flutter를 위해 한벌만 만들면 되고, 개발 속도 자체도 Native 개발보다 더 빠르고 (Hot reload), 개발 완료 후의 테스트도 Android/iOS 2번하지 않더라도, 99%의 기능은 동일하게 동작하기 때문에 회사 전반적인 효율이 단순히 50%가 아니라, 커뮤니케이션 비용까지 감안하면 회사 입장에서는 70%정도를 세이브 하면서, 출시 주기를 기능별로 짧게 가져갈 수 있었습니다.",
     "project_6 lawfully story3 title": "다양한 기능들과 기술 구현",
-    "project_6 lawfully story3": " Flutter 개발이 익숙해지고, 다양한 library들이 출시되면서 변호사와 화상 채팅이나(Agora) 신용카드 결제(Stripe) 연동이 손쉬워지면서, 계획으로만 가지고 있었던 기능들을 현실화할 수 있었습니다.\n\n 그 외에 Firebase에서 제공하는 A/B 테스팅이나 Firestore 기능과의 연동을 통해 Firestore DB 데이터 구조를 만들고 채팅 기능을 직접 개발하는데도 수월하게 진행할 수 있었습니다.",
+    "project_6 lawfully story3": " Flutter 개발이 익숙해지고, 다양한 library들이 출시되어 변호사와 화상 채팅이나(Agora) 신용카드 결제(Stripe) 연동이 손쉬워지면서, 계획으로만 가지고 있었던 기능들을 현실화할 수 있었습니다.\n\n 그 외에 Firebase에서 제공하는 A/B 테스팅이나 Firestore 기능과의 연동을 통해 Firestore DB 데이터 구조를 만들고 채팅 기능을 직접 개발하는데도 수월하게 진행할 수 있었습니다.",
     "project_6 lawfully story4 title": "지금은",
     "project_6 lawfully story4": " Lawfully는 전체 90만 다운로드, 그리고 등록된 유저 케이스 91만개, MAU 13만명을 기록하고 있습니다. 4년동안 유저 기준으로 8000% 성장을 했습니다. 이민하는 유저들 사이에서도 입소문을 통해 점점 더 알려지고 있으며 앞으로가 더 기대됩니다. ",
     "sort recent": "최신순으로 정렬하기",
