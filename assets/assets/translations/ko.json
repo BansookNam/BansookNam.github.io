@@ -61,7 +61,7 @@
     "project_6 lawfully story3 title": "다양한 기능들과 기술 구현",
     "project_6 lawfully story3": " Flutter 개발이 익숙해지고, 다양한 library들이 출시되어 변호사와 화상 채팅이나(Agora) 신용카드 결제(Stripe) 연동이 손쉬워지면서, 계획으로만 가지고 있었던 기능들을 현실화할 수 있었습니다.\n\n 그 외에 Firebase에서 제공하는 A/B 테스팅이나 Firestore 기능과의 연동을 통해 Firestore DB 데이터 구조를 만들고 채팅 기능을 직접 개발하는데도 수월하게 진행할 수 있었습니다.",
     "project_6 lawfully story4 title": "지금은",
-    "project_6 lawfully story4": " Lawfully는 전체 100만 다운로드, 그리고 등록된 유저 케이스 131만개, MAU 25만명을 기록하고 있습니다. 4년동안 유저 기준으로 15000% 성장을 했습니다. 이민하는 유저들 사이에서도 입소문을 통해 점점 더 알려지고 있으며 앞으로가 더 기대됩니다. ",
+    "project_6 lawfully story4": " Lawfully는 전체 100만 다운로드, 그리고 등록된 유저 케이스 190만개, MAU 35만명을 기록하고 있습니다. 4년동안 유저 기준으로 20000% 성장을 했습니다. 이민하는 유저들 사이에서도 입소문을 통해 점점 더 알려지고 있으며 앞으로가 더 기대됩니다. ",
     "sort recent": "최신순으로 정렬하기",
     "sort old": "시간순으로 정렬하기",
     "media": "발표 및 미디어"
