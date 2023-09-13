@@ -47002,7 +47002,7 @@ A.aqT.prototype={
 $2(a,b){var s,r,q,p,o=null,n=this.a,m=t.p,l=A.d_(A.a([new A.f3(new A.aqQ(n),A.tq(n.x?"assets/images/profile.png":"assets/images/profile_aging.png",300),o)],m),B.S,B.Bd,B.B),k=A.hX(10),j=t.m,i=a.Y(j)
 i.toString
 i=A.a([i.r.e],t.V)
-s=n.x?"9":"9+"
+s=n.x?"10":"10+"
 s=A.kw(s,o,o,o,o,o,o,o,A.co().$3$color$fontSize$fontWeight(B.j,40,B.Z),o,o,o)
 r=n.x?"years ago":"years experience"
 i=A.f1(B.aM,A.a([A.f1(B.aM,A.a([new A.ST(l,B.c5,o),A.fZ(new A.ep(B.nu,o,o,A.bt(o,A.dl(A.a([s,A.aFd(r,A.aJd(),!0,o,o,o,!1,o,A.co().$3$color$fontSize$fontWeight(B.j,12,B.Z),o,o)],m),B.at,B.A,B.B),B.m,o,o,new A.c2(B.fx,o,o,k,i,o,B.ae),o,o,o,B.Ph,o,o,o),o),0,0,200,250)],m),B.M,B.az,o)],m),B.M,B.az,o)
