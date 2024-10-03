@@ -444,13 +444,6 @@ _1678: () => {
 _1679: () => typeof dartUseDateNowForTicks !== "undefined",
 _1680: () => 1000 * performance.now(),
 _1681: () => Date.now(),
-_1682: () => {
-      // On browsers return `globalThis.location.href`
-      if (globalThis.location != null) {
-        return globalThis.location.href;
-      }
-      return null;
-    },
 _1684: () => new WeakMap(),
 _1685: (map, o) => map.get(o),
 _1686: (map, o, v) => map.set(o, v),
@@ -724,7 +717,6 @@ _1899: s => {
 _1902: x0 => x0.index,
 _1904: x0 => x0.length,
 _1906: (x0,x1) => x0[x1],
-_1907: (x0,x1) => x0.exec(x1),
 _1909: x0 => x0.flags,
 _1910: x0 => x0.multiline,
 _1911: x0 => x0.ignoreCase,
