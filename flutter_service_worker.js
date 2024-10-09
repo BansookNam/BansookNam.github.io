@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "4afe4bea64d344426a63b95667a0d1cc",
+const RESOURCES = {"flutter_bootstrap.js": "61c269a4cdf1900a69560c3a55b1e848",
 "version.json": "c420e205d8eac4ccea99913b4a50bfa7",
 "index.html": "2c9ce7b1930617798bf4cda7d4476af5",
 "/": "2c9ce7b1930617798bf4cda7d4476af5",
@@ -18,7 +18,7 @@ const RESOURCES = {"flutter_bootstrap.js": "4afe4bea64d344426a63b95667a0d1cc",
 "manifest.json": "7c84a4b1c6ce73c079d43b392578d922",
 "main.dart.wasm": "d210d7327ff97bc536d0a67c17864e6a",
 "assets/AssetManifest.json": "36b36c0d3b3692158e82c683558b7b80",
-"assets/NOTICES": "b1f3f25135fb60d4f3286747664e87a9",
+"assets/NOTICES": "97e69b25a1e8b98be1cff158a0ceb439",
 "assets/FontManifest.json": "634f1efc2f689271ca4f617f6319eccb",
 "assets/AssetManifest.bin.json": "65932bb2634c48610f3fdb058f887e5c",
 "assets/packages/eva_icons_flutter/lib/fonts/Eva-Icons.ttf": "b3cfd6832181cbaa3c98988c49d34641",
